@@ -1,2 +1,2 @@
 # hello-world
- store ideas
+ to store ideas
